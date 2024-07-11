@@ -1,8 +1,8 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Priyangshu+Roy's+GitHub+Profile)](https://git.io/typing-svg)
    <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
-   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
-> **Well done is better than Well said**💪
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
+   >**Well done is better than Well said**💪
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
@@ -131,6 +131,7 @@ A Python application to manage bank accounts with functionalities like creating 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
 
 > I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" img>
 
 <br>
 
@@ -182,6 +183,6 @@ A Python application to manage bank accounts with functionalities like creating 
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0297.gif" width="550" img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1050" img>
 
 
