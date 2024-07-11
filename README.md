@@ -1,9 +1,9 @@
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Priyangshu+Roy's+GitHub+Profile)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Priyangshu+Roy's+GitHub+Profile)](https://git.io/typing-svg)
    <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
 > **Well done is better than Well said**💪
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -13,7 +13,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
@@ -61,7 +61,7 @@
 
 
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
