@@ -1,7 +1,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Priyangshu+Roy's+GitHub+Profile)](https://git.io/typing-svg)
    <a href="#"><img width="28%" height="auto" align="right" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" /></a>
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="60px" align="center">
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="40px" align="center">
    >**Well done is better than Well said**💪
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
